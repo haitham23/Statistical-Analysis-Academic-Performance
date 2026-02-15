@@ -108,3 +108,23 @@ Although the relationship exists, dispersion suggests that IPS is not the sole d
 ---
 
 # 📁 Project Structure
+data/ → Raw datasets
+notebooks/ → RMarkdown analysis
+reports/ → Final PDF report
+images/ → Visual outputs
+
+---
+
+# 🧰 Technologies
+
+- R
+- RMarkdown
+- ggplot2
+- Statistical modeling
+
+---
+
+# 👨‍💻 Author
+
+Haitham Alfakhry  
+Data Science & Web Development Student
